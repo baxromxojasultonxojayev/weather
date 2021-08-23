@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/weather/static/css/main.a38b743f.chunk.css",
+    "main.js": "/weather/static/js/main.c032a3f9.chunk.js",
+    "main.js.map": "/weather/static/js/main.c032a3f9.chunk.js.map",
+    "runtime-main.js": "/weather/static/js/runtime-main.364d1d8b.js",
+    "runtime-main.js.map": "/weather/static/js/runtime-main.364d1d8b.js.map",
+    "static/js/2.9cc6f64c.chunk.js": "/weather/static/js/2.9cc6f64c.chunk.js",
+    "static/js/2.9cc6f64c.chunk.js.map": "/weather/static/js/2.9cc6f64c.chunk.js.map",
+    "index.html": "/weather/index.html",
+    "static/css/main.a38b743f.chunk.css.map": "/weather/static/css/main.a38b743f.chunk.css.map",
+    "static/js/2.9cc6f64c.chunk.js.LICENSE.txt": "/weather/static/js/2.9cc6f64c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather/static/media/cold-bg.fd698d07.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.364d1d8b.js",
+    "static/js/2.9cc6f64c.chunk.js",
+    "static/css/main.a38b743f.chunk.css",
+    "static/js/main.c032a3f9.chunk.js"
+  ]
+}
