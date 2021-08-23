@@ -39,6 +39,7 @@ main{
   border-radius: 10px 0 10px 0;
   border: none;
   outline: none;
+  font-size: 25px;
   border-top: 5px solid yellow;
   box-shadow: -4px 1px 41px 19px rgba(0,0,0,0.37);
 }
