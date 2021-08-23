@@ -1,5 +1,5 @@
 {
-  "homepage": "http://baxromxojasultonxojayev.github.io/weather-api",
+  "homepage": "http://baxromxojasultonxojayev.github.io/react-weather-api",
   "name": "react-weather-app",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "predeploy": "npm run deploy",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
